@@ -1,0 +1,28 @@
+{
+    "todos": [
+        {
+            "titulo": "Tarea 1",
+            "responsable": "Cristian",
+            "descripcion": "lorem ipsum",
+            "prioridad": "alta"
+        },
+        {
+            "titulo": "Tarea 2",
+            "responsable": "Valentina",
+            "descripcion": "lorem ipsum",
+            "prioridad": "media"
+        },
+        {
+            "titulo": "Tarea 3",
+            "responsable": "Obando",
+            "descripcion": "lorem ipsum",
+            "prioridad": "alta"
+        },
+        {
+            "titulo": "Tarea 4",
+            "responsable": "Andres",
+            "descripcion": "lorem ipsum",
+            "prioridad": "media"
+        }
+    ]
+}
