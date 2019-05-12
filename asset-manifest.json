@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AppTareasReactJS/static/css/main.eaab50b4.chunk.css",
+    "main.js": "/AppTareasReactJS/static/js/main.12c79593.chunk.js",
+    "main.js.map": "/AppTareasReactJS/static/js/main.12c79593.chunk.js.map",
+    "runtime~main.js": "/AppTareasReactJS/static/js/runtime~main.321da283.js",
+    "runtime~main.js.map": "/AppTareasReactJS/static/js/runtime~main.321da283.js.map",
+    "static/js/2.e148b302.chunk.js": "/AppTareasReactJS/static/js/2.e148b302.chunk.js",
+    "static/js/2.e148b302.chunk.js.map": "/AppTareasReactJS/static/js/2.e148b302.chunk.js.map",
+    "index.html": "/AppTareasReactJS/index.html",
+    "precache-manifest.87eb07323740e60a192f9d9f3700502c.js": "/AppTareasReactJS/precache-manifest.87eb07323740e60a192f9d9f3700502c.js",
+    "service-worker.js": "/AppTareasReactJS/service-worker.js",
+    "static/css/main.eaab50b4.chunk.css.map": "/AppTareasReactJS/static/css/main.eaab50b4.chunk.css.map",
+    "static/media/logo.svg": "/AppTareasReactJS/static/media/logo.5d5d9eef.svg"
+  }
+}
